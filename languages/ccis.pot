@@ -1,0 +1,296 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clove Image Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-21 17:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: ccis"
+
+#: includes/CCIS_Helper.php:16 includes/CCIS_Helper.php:31
+msgid "0.1"
+msgstr ""
+
+#: includes/CCIS_Helper.php:15 includes/CCIS_Helper.php:30
+msgid "0.2"
+msgstr ""
+
+#: includes/CCIS_Helper.php:14 includes/CCIS_Helper.php:29
+msgid "0.3"
+msgstr ""
+
+#: includes/CCIS_Helper.php:13 includes/CCIS_Helper.php:28
+msgid "0.4"
+msgstr ""
+
+#: includes/CCIS_Helper.php:12 includes/CCIS_Helper.php:27
+msgid "0.5"
+msgstr ""
+
+#: includes/CCIS_Helper.php:11 includes/CCIS_Helper.php:26
+msgid "0.6"
+msgstr ""
+
+#: includes/CCIS_Helper.php:10 includes/CCIS_Helper.php:25
+msgid "0.7"
+msgstr ""
+
+#: includes/CCIS_Helper.php:9 includes/CCIS_Helper.php:24
+msgid "0.8"
+msgstr ""
+
+#: includes/CCIS_Helper.php:8 includes/CCIS_Helper.php:23
+msgid "0.9"
+msgstr ""
+
+#: includes/CCIS_Helper.php:7 includes/CCIS_Helper.php:22
+msgid "1"
+msgstr ""
+
+#: admin/inc/pages/help_support.php:22
+msgid "1."
+msgstr ""
+
+#: admin/inc/pages/help_support.php:26
+msgid "2."
+msgstr ""
+
+#: admin/inc/pages/help_support.php:30
+msgid "3."
+msgstr ""
+
+#: admin/inc/pages/help_support.php:34
+msgid "4."
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:8
+msgid "Add Images"
+msgstr ""
+
+#: admin/inc/pages/help_support.php:27
+msgid "Add images to be shown in the slider."
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:12 public/inc/CCIS_Slider.php:13
+msgid "Add New Image Slider"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:41
+msgid "Add Slide"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:21
+msgid "All Image Sliders"
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:10
+msgid "Apply Settings On Clove Image Slider"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:43
+msgid "Are you sure to delete all the slides?"
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:538
+msgid "Author"
+msgstr ""
+
+#. Name of the plugin
+#: admin/inc/pages/help_support.php:9
+msgid "Clove Image Slider"
+msgstr ""
+
+#. Description of the plugin
+#: admin/inc/pages/help_support.php:15
+msgid ""
+"Clove Image Slider comes with different slider layouts which can be used to "
+"create and display multiple sliders on your WordPress website."
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:539
+msgid "Clove Image Slider Shortcode"
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:537
+msgid "Clove Image Slider Title"
+msgstr ""
+
+#. Author of the plugin
+msgid "codeclove"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:66
+msgid "Continue"
+msgstr ""
+
+#: admin/inc/metaboxes/copy_shortcode.php:5
+msgid "Copy below shortcode in any Page/Post to publish your slider"
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:12
+msgid "Copy Image Slider Shortcode"
+msgstr ""
+
+#: admin/inc/pages/help_support.php:35
+msgid ""
+"Copy the shortcode and use it in a page or post where you want to display "
+"the slider."
+msgstr ""
+
+#: admin/inc/pages/help_support.php:23
+msgid "Create new slider using the \"Add New Image Slider\" menu page."
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:541
+msgid "Date"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:29
+msgid "Delete"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:45
+msgid "Delete All Slides"
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:540
+msgid "Display Slider in Theme"
+msgstr ""
+
+#: admin/inc/CCIS_Slider_Admin.php:14
+msgid "Display Slider in your Theme"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:14
+msgid "Edit Image Slider"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:24 admin/inc/metaboxes/images.php:25
+#: admin/inc/metaboxes/images.php:39
+msgid "Enter slide description"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:23 admin/inc/metaboxes/images.php:39
+msgid "Enter slide link"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:20 admin/inc/metaboxes/images.php:21
+#: admin/inc/metaboxes/images.php:39
+msgid "Enter slide title"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:22
+msgid "Enter slide title link"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:67
+msgid "Exit"
+msgstr ""
+
+#: admin/inc/pages/help_support.php:18
+msgid "Follow the steps below to create and display the slider:"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:10
+msgctxt "General Name"
+msgid "Clove Image Slider"
+msgstr ""
+
+#: admin/inc/pages/help_support.php:16
+msgid "Getting Started"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeclove.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeclove.com/plugins"
+msgstr ""
+
+#: public/inc/layouts/layout4.php:204
+msgid "Image not found, next image will be loaded"
+msgstr ""
+
+#: public/inc/CCIS_Shortcode.php:33
+msgid "Layout is not set for this slider."
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:22
+msgctxt "Menu Name"
+msgid "Clove Image Slider"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:15
+msgid "New Image Slider"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:18
+msgid "No Image Slider found"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:19
+msgid "No Image Slider found in Trash"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:20
+msgid "Parent Image Slider:"
+msgstr ""
+
+#: public/inc/CCIS_Shortcode.php:40
+msgid "Please provide a valid slider ID."
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:53
+msgid "Rich Editor"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:27
+msgid "Rich Text Editor"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:17
+msgid "Search Image Slider"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:39
+msgid "Select"
+msgstr ""
+
+#: admin/inc/pages/help_support.php:31
+msgid "Select the layout and specify the settings specific to that layout."
+msgstr ""
+
+#: public/inc/CCIS_Shortcode.php:37
+msgid "Settings not found for this slider."
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:11
+msgctxt "Singular name"
+msgid "Clove Image Slider"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:39
+msgid "Upload Image"
+msgstr ""
+
+#: admin/inc/metaboxes/do_shortcode.php:5
+msgid "Use below code in your theme to display the slider"
+msgstr ""
+
+#: admin/inc/metaboxes/images.php:39
+msgid "Use Rich Text Editor"
+msgstr ""
+
+#: public/inc/CCIS_Slider.php:16
+msgid "View Image Slider"
+msgstr ""
